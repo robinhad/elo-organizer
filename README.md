@@ -4,10 +4,10 @@ Sort tasks by priority using smaller lists. E.g., you have 270 tasks (unreasonab
 
 ## Installation
 
-``bash
+```bash
 uv sync
 streamlit run main.py
-``
+```
 
 ## 1. Configurable Batch Size
 
